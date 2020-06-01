@@ -1,0 +1,9 @@
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\bin\Debug\sender.exe.config
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\bin\Debug\sender.exe
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\bin\Debug\sender.pdb
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.csprojResolveAssemblyReference.cache
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.Form1.resources
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.Properties.Resources.resources
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.exe
+c:\users\علي\documents\visual studio 2013\Projects\sender\sender\obj\Debug\sender.pdb
